@@ -1,0 +1,24 @@
+#secrets(never push these)
+.env
+.streamlit/secrets.toml
+
+#python + venv
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+#notebooks
+.ipynb_checkpoints/
+
+#data and vector db are rebuilt by scripts so they dont go to github
+data/
+chroma_db/
+*.pkl
+*.keras
+
+#ide
+.idea/
+.vscode/
+.devcontainer/
+.DS_Store
