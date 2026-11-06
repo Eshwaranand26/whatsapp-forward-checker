@@ -15,8 +15,8 @@ Phase 1 (GenAI core):
 |---|---|---|
 | Data | 16,953 Indian fact-checks (English + Hindi) cleaned into SQLite (`notebooks/01_load_factchecks.ipynb`) | ✅ |
 | Embeddings + Chroma | Qwen3 embeddings (local, chosen from a 4-model comparison in `notebooks/02_embeddings_chroma.ipynb`), `create_database.py` builds the Chroma DB, threshold test in `notebooks/03_search_threshold.ipynb` | ✅ |
-| Verdict chain | LangChain + LLM, structured verdict, Unverified below threshold | — |
-| Fresh data | RSS from Indian fact-checkers | — |
+| Verdict chain | `main.py`: Groq LLM checks "same claim?", Pydantic verdict + Hindi/English reply, Unverified below threshold | ✅ |
+| Fresh data | On demand: when the local DB has no match, ask the live Google Fact Check API and save new fact-checks back into the DB | ✅ |
 | App + eval + deploy | Streamlit, 30-forward evaluation, Hugging Face Spaces | — |
 
 Later phases (GenAI extras, data + ML add-on, agent) are in [PLAN.md](PLAN.md).

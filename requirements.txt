@@ -19,10 +19,6 @@ sentence-transformers
 langchain-chroma
 chromadb
 
-#fresh data(rss + fact check pages)
-beautifulsoup4
-lxml
-
 #app
 streamlit
 
