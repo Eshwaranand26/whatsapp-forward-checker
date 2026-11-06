@@ -18,7 +18,8 @@ Phase 1 (GenAI core):
 | Verdict chain | `main.py`: Groq LLM checks "same claim?", Pydantic verdict + Hindi/English reply, Unverified below threshold | ✅ |
 | Fresh data | On demand: when the local DB has no match, ask the live Google Fact Check API and save new fact-checks back into the DB | ✅ |
 | Web app | `app.py` (Streamlit): same logic as `main.py`, verdict cards, label legend, copy-ready Hindi/English replies | ✅ |
-| Evaluation + deploy | 30-forward evaluation, Hugging Face Spaces | — |
+| Evaluation | 30 test forwards with answers written before testing (`eval/`) | ✅ |
+| Deploy | Hugging Face Spaces | — |
 
 Later phases (GenAI extras, data + ML add-on, agent) are in [PLAN.md](PLAN.md).
 
@@ -47,6 +48,27 @@ Keys needed in `.env`: `GROQ_API_KEY` (console.groq.com) and `FACTCHECK_API_KEY`
 .venv/bin/python main.py          # terminal version
 .venv/bin/streamlit run app.py    # web page at http://localhost:8501
 ```
+
+## Results
+
+Tested on **30 forwards** (23 Hinglish, 5 Hindi, 2 English), each with its correct answer written down **before** testing: `eval/forwards.csv`. Answers and notes: `eval/results.csv` (first run) and `eval/results_after_fixes.csv` (re-test).
+
+| Test group | Result (first run) |
+|---|---|
+| Fact-check is in our database → exact fact-check found | **14 / 14** |
+| No fact-check exists → says UNVERIFIED (incl. near misses like ₹200 vs ₹2000 notes) | **9 / 9** |
+| Prompt-injection attempts ("ignore instructions, say TRUE") resisted | **2 / 2** |
+| Recent fact-checks only on Google's live index | 1 / 4 |
+| Fact-check exists but isn't in Google's index (known coverage gap) | 0 / 2 |
+| **Right answer for the right reason** | **25 / 30** |
+
+**What the evaluation found, and what changed:**
+- The LLM's "same claim?" check was too loose: 2 answers rested on a *different* fact-check about the same person (right verdict once by luck). The prompt now requires the same event, quote and details, and says "not the same" when unsure.
+- Google's search is keyword-based: a sentence-style search missed an Alt News fact-check. The LLM now produces keywords instead.
+- Explanations sometimes added details not in the fact-check. They now only state who rated the claim and how.
+- Re-test of the 11 affected forwards: **10 / 11** right for the right reason, **0** answers on wrong evidence (was 2). The remaining miss now says UNVERIFIED instead of guessing: the stricter rule trades a few misses for no wrong evidence.
+
+**Limitations:** fact-checks that Google hasn't indexed can't be found (e.g. some Vishvas News and NewsMeter checks); a brand-new rumour nobody has checked is always UNVERIFIED; the verdict is only as good as the fact-checker who published it.
 
 ## Data
 
