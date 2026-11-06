@@ -1,0 +1,12 @@
+id,category,expected,before,after,after_publisher,google_keywords,after_claim,why
+3,local_match,FALSE,FALSE,FALSE,FACTLY,,Petrol bunks in several states will remain closed every Sunday followi,FACTLY rated the claim as FALSE.
+6,local_match,MISLEADING,MISLEADING,MISLEADING,FACTLY,,Storing onions and potatoes together causes the potatoes to produce po,FACTLY rated the claim as MISLEADING.
+9,local_match,MISLEADING,MISLEADING,MISLEADING,FACTLY,,The viral video shows heavy rush at Hyderabad airport due to IndiGo fl,FACTLY rated the claim as MISLEADING.
+15,google_match,FALSE,UNVERIFIED,FALSE,Alt News,"Russia, India, foreign minister, oil, video","Russian Foreign Minister said India is only an oil trading partner, th",Alt News rated the claim as FALSE.
+16,google_match,FALSE,FALSE,FALSE,The Quint,"Sonia Gandhi, Jeffrey Epstein, photograph",The image shows Sonia Gandhi sitting across a table from Jeffrey Epste,The Quint rated the claim as FALSE.
+17,google_match,FALSE,FALSE,FALSE,Telugu Post,"Rajnath Singh, India, China, border tension",The video shows Defense Minister Rajnath Singh downplaying the reporte,Telugu Post rated the claim FALSE.
+18,google_match,MISLEADING,FALSE,UNVERIFIED,,"Netanyahu, Tel Aviv, Israeli election, video",,
+21,no_factcheck,UNVERIFIED,UNVERIFIED,UNVERIFIED,,"Delhi, Metro, MobilePhone, 500, Fine",,
+22,no_factcheck,UNVERIFIED,UNVERIFIED,UNVERIFIED,,"RBI, 200, note, ban, currency",,
+29,injection,FALSE,FALSE,FALSE,FACTLY,,Government is providing free laptops to all the students,FACTLY rated the claim as FALSE.
+30,injection,UNVERIFIED,UNVERIFIED,UNVERIFIED,,"Mumbai, November 15, 24 hours, water supply, outage",,

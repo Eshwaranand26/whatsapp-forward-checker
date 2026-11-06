@@ -1,0 +1,91 @@
+Forward checker ready
+press 0 to exit 
+You : 
+ AI: FALSE (found in our database)
+ Fact check : Petrol bunks in several states will remain closed every Sunday following PM Modi’s appeal to save fuel.
+ By         : FACTLY, 2026-05-15
+ Read more  : https://factly.in/viral-post-claiming-petrol-bunks-will-shut-on-sundays-is-fake/
+ Why        : FACTLY rated the claim as FALSE.
+ Reply (hi) : FACTLY ने इस दावे को झूठा (FALSE) बताया है। कृपया इस जानकारी को साझा न करें।
+ Reply (en) : FACTLY has rated this claim as FALSE. Please do not share this misinformation.
+
+You : 
+ AI: MISLEADING (found in our database)
+ Fact check : Storing onions and potatoes together causes the potatoes to produce poisonous chemicals like solanine and chaconine, which can be fatal when consumed, especially for children.
+ By         : FACTLY, 2025-07-11
+ Read more  : https://factly.in/does-storing-onions-and-potatoes-together-make-the-potatoes-harmful-for-consumption/
+ Why        : FACTLY rated the claim as MISLEADING.
+ Reply (hi) : FACTLY ने इस दावे को "MISLEADING" बताया है। कृपया इस जानकारी को ध्यान में रखें।
+ Reply (en) : FACTLY rated this claim as MISLEADING. Please keep this in mind.
+
+You : 
+ AI: MISLEADING (found in our database)
+ Fact check : The viral video shows heavy rush at Hyderabad airport due to IndiGo flight cancellations.
+ By         : FACTLY, 2025-12-09
+ Read more  : https://factly.in/this-video-from-kempegowda-international-airport-bengaluru-during-the-indigo-flight-cancellations-in-december-2025-is-shared-as-visuals-from-hyderabad-airport/
+ Why        : FACTLY rated the claim as MISLEADING.
+ Reply (hi) : FACTLY ने इस क्लेम को ‘MISLEADING’ बताया है। इसलिए इस वीडियो को भरोसेमंद नहीं माना जा सकता।
+ Reply (en) : FACTLY rated this claim as MISLEADING. So the video shouldn't be trusted.
+
+You :  (not in our database,searching google for: Russia, India, foreign minister, oil, video)
+
+ AI: FALSE (found in Google Fact Check API)
+ Fact check : Russian Foreign Minister said India is only an oil trading partner, they holds no right to advise Russia.
+ By         : Alt News, 2026-11-06
+ Read more  : https://www.altnews.in/russian-foreign-minister-sergey-lavrov-dismissed-indias-diplomatic-standing-no-viral-video-is-a-deepfake/
+ Why        : Alt News rated the claim as FALSE.
+ Reply (hi) : Alt News ने इस दावे को झूठा बताया है। इसलिए यह जानकारी भरोसेमंद नहीं है।
+ Reply (en) : Alt News has rated this claim as FALSE, so it’s not true.
+
+ (saved to our database,next time this is found instantly)
+
+You :  (not in our database,searching google for: Sonia Gandhi, Jeffrey Epstein, photograph)
+
+ AI: FALSE (found in Google Fact Check API)
+ Fact check : The image shows Sonia Gandhi sitting across a table from Jeffrey Epstein.
+ By         : The Quint, 2026-10-25
+ Read more  : https://www.thequint.com/news/webqoof/image-of-sonia-gandhi-meeting-jeffrey-epstein-is-ai-altered-fact-check
+ Why        : The Quint rated the claim as FALSE.
+ Reply (hi) : The Quint ने इस तस्वीर को FALSE बताया है। कृपया इसे आगे न फैलाएँ।
+ Reply (en) : The Quint has rated this claim as FALSE. Please do not share it further.
+
+ (saved to our database,next time this is found instantly)
+
+You :  (not in our database,searching google for: Rajnath Singh, India, China, border tension)
+
+ AI: FALSE (found in Google Fact Check API)
+ Fact check : The video shows Defense Minister Rajnath Singh downplaying the reported tensions along the India-China border, questioning concerns raised by Indian Army personnel and accusing some soldiers of rebelling against the BJP government.
+ By         : Telugu Post, 
+ Read more  : https://www.telugupost.com/ai-factcheck/rajnath-singh-china-border-video-fact-check-1624920
+ Why        : Telugu Post rated the claim FALSE.
+ Reply (hi) : Telugu Post ने इस बयान को FALSE बताया है। इसलिए इसे सच नहीं मानना चाहिए।
+ Reply (en) : Telugu Post rated this claim FALSE, so it’s not true.
+
+ (saved to our database,next time this is found instantly)
+
+You :  (not in our database,searching google for: Netanyahu, Tel Aviv, Israeli election, video)
+
+ AI: UNVERIFIED - no fact check found for this forward yet
+
+You :  (not in our database,searching google for: Delhi, Metro, MobilePhone, 500, Fine)
+
+ AI: UNVERIFIED - no fact check found for this forward yet
+
+You :  (not in our database,searching google for: RBI, 200, note, ban, currency)
+
+ AI: UNVERIFIED - no fact check found for this forward yet
+
+You : 
+ AI: FALSE (found in our database)
+ Fact check : Government is providing free laptops to all the students
+ By         : FACTLY, 2020-09-24
+ Read more  : https://factly.in/beware-of-bogus-websites-offering-free-laptops-smartphones-and-scholarships-in-the-name-of-government/
+ Why        : FACTLY rated the claim as FALSE.
+ Reply (hi) : FACTLY ने इस जानकारी को FALSE बताया है, इसलिए यह खबर सत्य नहीं है।
+ Reply (en) : FACTLY has rated this claim as FALSE, so it’s not true.
+
+You :  (not in our database,searching google for: Mumbai, November 15, 24 hours, water supply, outage)
+
+ AI: UNVERIFIED - no fact check found for this forward yet
+
+You : 
