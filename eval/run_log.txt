@@ -1,0 +1,217 @@
+Forward checker ready
+press 0 to exit 
+You : 
+ AI: FALSE (found in our database)
+ Fact check : Government is providing free laptops to all the students
+ By         : FACTLY, 2020-09-24
+ Read more  : https://factly.in/beware-of-bogus-websites-offering-free-laptops-smartphones-and-scholarships-in-the-name-of-government/
+ Why        : FACTLY verified that the claim about the government giving free laptops to all students is false.
+ Reply (hi) : FACTLY के अनुसार सरकार सभी छात्रों को मुफ्त लैपटॉप नहीं दे रही है; यह जानकारी गलत है। कृपया आगे फॉरवर्ड न करें।
+ Reply (en) : FACTLY has clarified that the claim that the government is providing free laptops to all students is false. Please do not share this misinformation.
+
+You : 
+ AI: FALSE (found in our database)
+ Fact check : Reserve Bank of India (RBI) has implemented a new rule mandating that all banks in India will be closed every Saturday and Sunday
+ By         : FACTLY, 2025-09-16
+ Read more  : https://factly.in/rbi-has-not-implemented-a-new-rule-mandating-a-holiday-for-banks-every-saturday/
+ Why        : FACTLY found the claim that RBI has ordered all banks to close on weekends to be false.
+ Reply (hi) : FACTLY के अनुसार यह बात गलत है। RBI ने ऐसा कोई नियम नहीं लगाया है। कृपया इस सूचना को साझा न करें।
+ Reply (en) : According to FACTLY, this claim is false. RBI has not issued such a rule. Please do not spread this misinformation.
+
+You : 
+ AI: FALSE (found in our database)
+ Fact check : Petrol bunks in several states will remain closed every Sunday following PM Modi’s appeal to save fuel.
+ By         : FACTLY, 2026-05-15
+ Read more  : https://factly.in/viral-post-claiming-petrol-bunks-will-shut-on-sundays-is-fake/
+ Why        : FactCheck by FACTLY found the claim that petrol pumps will be closed every Sunday to be false.
+ Reply (hi) : यह खबर गलत है; FACTLY ने इसे झूठा बताया है। कृपया इस बात को साझा न करें।
+ Reply (en) : This claim is false; FACTLY has debunked it. Please do not share it.
+
+You : 
+ AI: FALSE (found in our database)
+ Fact check : Lemon, holy basil, and coconut water can cure kidney stones in one day
+ By         : THIP Media, 2025-05-07
+ Read more  : https://www.thip.media/health-news-fact-check/fact-check-can-lemon-holy-basil-and-coconut-water-cure-kidney-stones-in-one-day/113735/
+ Why        : THIP Media fact‑checked the claim and rated it FALSE, stating that lemon, holy basil and coconut water do not cure kidney stones in one day.
+ Reply (hi) : THIP Media ने इस दावे को गलत बताया है। नींबू, तुलसी और नारियल पानी से किडनी स्टोन एक दिन में नहीं ठीक होते।
+ Reply (en) : According to THIP Media, this claim is false. Lemon, holy basil, and coconut water do not cure kidney stones in a day.
+
+You : 
+ AI: FALSE (found in our database)
+ Fact check : a patent show that 5G towers are brainwashing people
+ By         : THIP Media, 2023-10-26
+ Read more  : https://www.thip.media/health-news-fact-check/fact-check-does-a-patent-show-that-5g-towers-are-brainwashing-people/54469/
+ Why        : The fact‑check by THIP Media found that the claim a patent proves 5G towers are being used to brainwash people is false.
+ Reply (hi) : THIP Media ने इस दावे को झूठा ठहराया है। 5G टावरों को मस्तिष्क नियंत्रण के लिए इस्तेमाल करने वाला कोई पेटेंट नहीं है। कृपया इसे आगे न फैलाएँ।
+ Reply (en) : THIP Media has debunked this claim as false. There is no patent showing 5G towers are used to brainwash people. Please do not share this misinformation.
+
+You : 
+ AI: MISLEADING (found in our database)
+ Fact check : Storing onions and potatoes together causes the potatoes to produce poisonous chemicals like solanine and chaconine, which can be fatal when consumed, especially for children.
+ By         : FACTLY, 2025-07-11
+ Read more  : https://factly.in/does-storing-onions-and-potatoes-together-make-the-potatoes-harmful-for-consumption/
+ Why        : FACTLY found the claim misleading; storing onions and potatoes together does not make the potatoes poisonous.
+ Reply (hi) : FACTLY के अनुसार यह जानकारी ग़लत है; प्याज और आलू साथ रखने से आलू ज़हर नहीं बनते। कृपया इसे आगे न फैलाएँ।
+ Reply (en) : According to FACTLY, this claim is misleading; storing onions with potatoes does not make potatoes poisonous. Please do not share it further.
+
+You : 
+ AI: FALSE (found in our database)
+ Fact check : The Reserve Bank of India (RBI) has launched new ₹500 plastic currency notes that do not feature Mahatma Gandhi’s photograph.
+ By         : FACTLY, 2026-06-08
+ Read more  : https://factly.in/the-rbi-has-not-launched-any-new-%e2%82%b9500-plastic-currency-notes-without-mahatma-gandhis-photograph-this-viral-image-is-ai-generated/
+ Why        : FACTLY verified the claim and found it false; the RBI has not introduced a new ₹500 plastic note without Mahatma Gandhi’s photograph.
+ Reply (hi) : FACTLY के अनुसार यह जानकारी गलत है। RBI ने अभी तक 500 रुपये के प्लास्टिक नोट नहीं जारी किए हैं, और गांधी जी की फोटो वाली नोट ही है।
+ Reply (en) : According to FACTLY, this claim is false. RBI has not launched a ₹500 plastic note without Mahatma Gandhi’s photo.
+
+You : 
+ AI: FALSE (found in our database)
+ Fact check : Pending traffic challan payment websites shared via SMS and WhatsApp are official portals for paying traffic fines.
+ By         : FACTLY, 2026-01-12
+ Read more  : https://factly.in/pending-traffic-challan-links-sent-via-sms-and-whatsapp-are-fake-and-fraudulent/
+ Why        : FACTLY found that the links shared for paying pending traffic challans are not official portals and are fraudulent.
+ Reply (hi) : FACTLY ने बताया है कि ये लिंक आधिकारिक नहीं हैं, इसलिए भुगतान न करें। कृपया सतर्क रहें!
+ Reply (en) : FACTLY says these links are not official portals for traffic fine payments, so don’t pay. Stay alert!
+
+You : 
+ AI: MISLEADING (found in our database)
+ Fact check : The viral video shows heavy rush at Hyderabad airport due to IndiGo flight cancellations.
+ By         : FACTLY, 2025-12-09
+ Read more  : https://factly.in/this-video-from-kempegowda-international-airport-bengaluru-during-the-indigo-flight-cancellations-in-december-2025-is-shared-as-visuals-from-hyderabad-airport/
+ Why        : Factly rated the claim as misleading, stating that the video does not actually show a crowd caused by IndiGo flight cancellations.
+ Reply (hi) : Factly के अनुसार यह वीडियो और कारण गलत है; इसे साझा न करें।
+ Reply (en) : According to Factly, the video is misleading about IndiGo cancellations, so it shouldn't be shared.
+
+You : 
+ AI: MISLEADING (found in our database)
+ Fact check : Maruti Suzuki Wagon R cars are the most unsafe cars in the world
+ By         : Fact Crescendo, 2025-11-01
+ Read more  : https://english.factcrescendo.com/2025/11/01/is-wagon-r-the-most-unsafe-car-type-in-the-world/
+ Why        : Fact Crescendo rated the claim that the Maruti Suzuki Wagon R is the world's most unsafe car as misleading.
+ Reply (hi) : Fact Crescendo ke mutabik, Wagon R duniya ki sabse unsafe car nahi hai; यह दावा misleading है।
+ Reply (en) : According to Fact Crescendo, the claim that the Wagon R is the world's most unsafe car is misleading.
+
+You : 
+ AI: FALSE (found in our database)
+ Fact check : इंडियन ऑइल ने गाड़ी का फ्यूल टैंक फुल ना कराने की दी चेतावनी
+ By         : The Quint, 2023-04-20
+ Reply (hi) : The Quint के अनुसार यह खबर गलत है। कृपया इस जानकारी को आगे न फैलाएँ।
+ Reply (en) : According to The Quint, this claim is false. Please do not share it further.
+
+You : 
+ AI: TRUE (found in our database)
+ Fact check : Singer Lata Mangeshkar has passed away
+ By         : FACTLY, 2022-01-24
+ Read more  : https://factly.in/no-singer-lata-mangeshkar-has-not-passed-away-she-is-alive-as-on-24-january-2022/
+ Why        : Factly verified that singer Lata Mangeshkar has indeed passed away, confirming the claim as true.
+ Reply (hi) : हाँ, लता मंगेशकर का सच में निधन हो गया है। फ़ैक्टली ने इसे सत्य बताया है।
+ Reply (en) : Yes, Lata Mangeshkar has indeed passed away. Factly has verified this as true.
+
+You : 
+ AI: FALSE (found in our database)
+ Fact check : Eating Kulthi lentils can cure gallstones in 15 days
+ By         : THIP Media, 2024-10-03
+ Read more  : https://www.thip.media/health-news-fact-check/fact-check-can-eating-kulthi-lentils-cure-gallstones-in-15-days/84860/
+ Why        : The fact-check by THIP Media found the claim that eating Kulthi dal removes gallstones in 15 days to be false.
+ Reply (hi) : THIP Media ने इस दावे को झूठा बताया है। कृपया इस जानकारी को आगे न फैलाएँ।
+ Reply (en) : THIP Media has debunked this claim as false. Please do not share this misinformation.
+
+You : 
+ AI: MISLEADING (found in our database)
+ Fact check : The viral video shows Indian soldiers on duty in the Siachen region.
+ By         : FACTLY, 2025-12-31
+ Read more  : https://factly.in/a-video-of-mountaineers-climbing-pico-de-orizaba-in-mexico-is-being-shared-as-visuals-of-indian-soldiers-deployed-at-the-siachen-glacier/
+ Why        : Factly found the video to be misleading and not actually showing Indian soldiers on duty in Siachen.
+ Reply (hi) : Factly के अनुसार यह वीडियो भ्रामक है और सियाचिन में भारतीय सैनिकों की ड्यूटी नहीं दिखाता। कृपया इसे साझा न करें।
+ Reply (en) : According to Factly, the video is misleading and does not show Indian soldiers on duty in Siachen. Please avoid sharing it.
+
+You :  (not in our database,searching google for: Russia foreign minister says India only oil buyer)
+
+ AI: UNVERIFIED - no fact check found for this forward yet
+
+You :  (not in our database,searching google for: Sonia Gandhi meeting Jeffrey Epstein photo)
+
+ AI: FALSE (found in Google Fact Check API)
+ Fact check : Photos show Narendra Modi, Sonia Gandhi, Rahul Gandhi with Jeffrey Epstein
+ By         : BOOM Fact Check, 2026-02-16
+ Read more  : https://www.boomlive.in/fact-check/fake-news-viral-photos-ai-generated-narendra-modi-rahul-gandhi-sonia-gandhi-jeffrey-epstein-factcheck-30702
+ Why        : BOOM Fact Check found that the photos claiming Sonia Gandhi met Jeffrey Epstein are false.
+ Reply (hi) : BOOM Fact Check के अनुसार यह फोटो झूठी है, सोनिया गांधी और जेफरी एपस्टीन की मुलाकात का कोई प्रमाण नहीं है।
+ Reply (en) : According to BOOM Fact Check, the photo is fake and there's no evidence of Sonia Gandhi meeting Jeffrey Epstein.
+
+ (saved to our database,next time this is found instantly)
+
+You :  (not in our database,searching google for: Rajnath Singh says India-China tension not serious)
+
+ AI: FALSE (found in Google Fact Check API)
+ Fact check : Rajnath Singh accused Indian Army personnel of exaggerating India-China border tensions to discredit the BJP government.
+ By         : NewsMobile, 2026-10-31
+ Read more  : https://www.newsmobile.in/nm-fact-checker/verified-rajnath-singh-did-not-make-this-statement-on-india-china-border-dispute/
+ Why        : NewsMobile found the claim that Rajnath Singh said the India‑China border tension is not a big issue or that the army is exaggerating it to be false.
+ Reply (hi) : NewsMobile ने जांच कर बताया कि यह दावा झूठा है। कृपया ऐसी गलत जानकारी न फैलाएँ।
+ Reply (en) : NewsMobile has verified that this claim is false. Please do not share such misinformation.
+
+ (saved to our database,next time this is found instantly)
+
+You : 
+ AI: FALSE (found in our database)
+ Fact check : The video shows Israeli Prime Minister Benjamin Netanyahu being assaulted by a citizen amid the ongoing June 2025 Israel-Iran tensions.
+ By         : FACTLY, 2025-06-26
+ Read more  : https://factly.in/video-of-turkeys-opposition-leader-ozgur-ozel-being-attacked-is-falsely-shared-as-an-attack-on-israeli-pm-benjamin-netanyahu/
+ Why        : FACTLY found that the video does not actually show Prime Minister Benjamin Netanyahu being assaulted, rating the claim as false.
+ Reply (hi) : FACTLY ने जांच कर बताया कि यह वीडियो में बेंजामिन नेतन्याहू पर हमला नहीं दिखाया गया है; यह गलत जानकारी है। कृपया आगे ऐसे फ़ॉरवर्ड न भेजें।
+ Reply (en) : FACTLY checked the video and found it does NOT show Prime Minister Benjamin Netanyahu being attacked; the claim is false. Please avoid sharing such misinformation.
+
+You :  (not in our database,searching google for: BJP voters are true Indian citizens)
+
+ AI: UNVERIFIED - no fact check found for this forward yet
+
+You :  (not in our database,searching google for: India's first indigenous bullet train video)
+
+ AI: UNVERIFIED - no fact check found for this forward yet
+
+You :  (not in our database,searching google for: Delhi Metro phone use incurs 500 rupee fine)
+
+ AI: UNVERIFIED - no fact check found for this forward yet
+
+You :  (not in our database,searching google for: RBI bans 200 rupee note tomorrow)
+
+ AI: UNVERIFIED - no fact check found for this forward yet
+
+You :  (not in our database,searching google for: IRCTC Diwali free food with ticket)
+
+ AI: UNVERIFIED - no fact check found for this forward yet
+
+You :  (not in our database,searching google for: Coconut water daily adds 5 cm height)
+
+ AI: UNVERIFIED - no fact check found for this forward yet
+
+You :  (not in our database,searching google for: Mumbai water outage 24 hours Nov 15)
+
+ AI: UNVERIFIED - no fact check found for this forward yet
+
+You :  (not in our database,searching google for: Pune auto fare reduced by 5 rupees)
+
+ AI: UNVERIFIED - no fact check found for this forward yet
+
+You :  (not in our database,searching google for: Free stove with gas cylinder next month)
+
+ AI: UNVERIFIED - no fact check found for this forward yet
+
+You :  (not in our database,searching google for: government order schools closed every Saturday)
+
+ AI: UNVERIFIED - no fact check found for this forward yet
+
+You : 
+ AI: FALSE (found in our database)
+ Fact check : Government is providing free laptops to all the students
+ By         : FACTLY, 2020-09-24
+ Read more  : https://factly.in/beware-of-bogus-websites-offering-free-laptops-smartphones-and-scholarships-in-the-name-of-government/
+ Why        : FACTLY fact‑checked the claim and found it to be FALSE.
+ Reply (hi) : FACTLY ने बताया कि सरकार सभी छात्रों को मुफ्त लैपटॉप देने का दावा गलत है। इसलिए यह खबर सत्य नहीं है।
+ Reply (en) : FACTLY says the claim that the government is giving free laptops to all students is false, so the news is not true.
+
+You :  (not in our database,searching google for: Mumbai water supply shut off 15 November)
+
+ AI: UNVERIFIED - no fact check found for this forward yet
+
+You : 
