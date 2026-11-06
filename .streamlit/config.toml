@@ -1,0 +1,32 @@
+#look of the web page(app.py).colours and fonts live here so app.py stays simple
+
+[theme]
+base = "light"
+
+#trust blue for buttons and links,calm off-white background,white cards
+primaryColor = "#1F4E79"
+backgroundColor = "#F7F8FA"
+secondaryBackgroundColor = "#EEF2F6"
+textColor = "#1A1F2B"
+linkColor = "#1F4E79"
+borderColor = "#D9DEE5"
+baseRadius = "10px"
+
+#verdict colours(st.badge):false = red,misleading = amber,true = green
+redColor = "#C62828"
+orangeColor = "#B26A00"
+greenColor = "#2E7D32"
+blueColor = "#1F4E79"
+
+#inter(google fonts) for english.streamlit allows only one font link here,
+#so hindi uses the device's own devanagari font(noto sans devanagari on android phones)
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap, sans-serif"
+headingFont = "Inter, sans-serif"
+#the replies are shown in st.code(for the copy button),so use the normal font instead of a code font
+codeFont = "Inter, sans-serif"
+baseFontSize = 17
+headingFontWeights = 700
+
+[client]
+#hide the "Deploy" button and developer menu so it looks like a finished product
+toolbarMode = "minimal"
