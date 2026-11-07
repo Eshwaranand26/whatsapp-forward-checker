@@ -9,6 +9,11 @@ So I built this. You paste a forward (Hindi, English or Hinglish) and it:
 
 If no fact-checker has covered it, it says **UNVERIFIED** instead of guessing.
 
+<p>
+  <img src="images/result_false.png" width="49%" alt="A Hinglish forward matched to a FACTLY fact-check rated FALSE, with a Hindi reply">
+  <img src="images/result_unverified.png" width="49%" alt="A made-up forward with no published fact-check, shown as UNVERIFIED">
+</p>
+
 ## How it works
 
 ```
