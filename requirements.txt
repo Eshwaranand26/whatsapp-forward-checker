@@ -9,7 +9,7 @@ python-dotenv
 #notebooks
 ipykernel
 
-#genai(same packages as the course)
+#genai
 langchain
 langchain-core
 langchain-community
@@ -22,5 +22,3 @@ chromadb
 #app
 streamlit
 
-#phase 2
-tavily-python

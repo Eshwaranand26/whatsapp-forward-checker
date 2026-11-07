@@ -22,3 +22,7 @@ chroma_db/
 .vscode/
 .devcontainer/
 .DS_Store
+
+#personal notes
+STYLE.md
+PLAN.md

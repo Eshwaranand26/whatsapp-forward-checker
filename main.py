@@ -202,7 +202,7 @@ def save_to_database(fact_check):
     pd.DataFrame([fact_check]).to_sql("factchecks", conn, if_exists = "append", index = False)
     conn.close()
 
-    #chroma:same Document as the course,add_documents adds to the existing database
+    #chroma:add_documents adds to the existing database
     metadata = {
         "verdict": fact_check["verdict"],
         "rating_raw": fact_check["rating_raw"],

@@ -7,7 +7,7 @@ import pandas as pd
 from langchain_community.document_loaders import DataFrameLoader
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
-#same Chroma as the course(langchain_community.vectorstores),langchain_chroma is its newer home because langchain_community is being shut down
+#langchain_chroma instead of langchain_community.vectorstores(the community version is deprecated)
 
 conn = sqlite3.connect("data/factchecks.db")
 df = pd.read_sql("SELECT * FROM factchecks", conn)
